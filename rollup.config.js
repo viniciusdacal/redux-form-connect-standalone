@@ -7,7 +7,7 @@ var env = process.env.NODE_ENV
 var config = {
   format: 'umd',
   moduleName: 'ReduxFormConnectStandalone',
-  external: ['redux', 'react-redux', 'redux-form'. 'react', 'prop-types'],
+  external: ['redux', 'react-redux', 'redux-form', 'react', 'prop-types'],
   globals: {
     'redux': 'redux',
     'redux-form': 'redux-form',

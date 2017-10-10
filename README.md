@@ -23,7 +23,7 @@ export const reduxForm = createReduxForm(store);
 Now, you can use this function the same way you would use [reduxForm function](https://github.com/erikras/redux-form/):
 
 ```jsx
-import { connect } from 'path/to/yourConnect';
+import { reduxForm } from 'path/to/yourReduxForm';
 import TodoForm from './TodoForm';
 
 export default reduxForm({ ...reduxFormConfig })(TodoForm)

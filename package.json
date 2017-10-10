@@ -1,6 +1,6 @@
 {
   "name": "redux-form-connect-standalone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A High Order Component to allow you to use redux-form without the need of a single root Provider",
   "main": "lib/index.js",
   "module": "es/index.js",
