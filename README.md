@@ -1,4 +1,4 @@
-# Redux Connect Standalone
+# Redux Form Connect Standalone
 This is High Order Component allows you to use reduxForm when you aren't able to have a single root Provider in your application. Eg: You are migrating a legacy application to React and has a few react components inside this application.
 
 Before using this, you need to configure your redux store and export it, just like below.
